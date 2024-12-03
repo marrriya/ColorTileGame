@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorTiles</string>
+    <string name="win_text">Вы выиграли!</string>
+</resources>
